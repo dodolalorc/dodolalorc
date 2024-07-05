@@ -2,11 +2,11 @@
 
 I'm flora. Now studying CS at university. 
 
-There is my blog: [flora's blog](https://florae006.github.io/). 
+There is my blog: [flora's blog](https://florae006.github.io/) or [THIS SITE](https://dodolalorc.cn/). 
 
 You can find some articles about my learning experience and some interesting things.
 
-If you have any questions, you can contact me by email: [flora's email](mailto:chenflora124@gmail.com), or leave a message on my blog.
+If you have any questions, you can contact me by email: [flora's email](mailto:chenflora124@gmail.com) or [THIS EMAIL](mailto:flora_chen2021@163.com), or leave a message on my blog through [comment board](https://florae006.github.io/comments/).
 
 ### My GitHub Stats 📈
 <div style="display:flex;flex-direction:row;justify-content:center;">
