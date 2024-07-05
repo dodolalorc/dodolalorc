@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div class="container">
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Florae006&count_private=true&show_icons=true&theme=graywhite&show_owner=true" />
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Florae006&layout=compact&theme=graywhite" />
+</div>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -90,17 +95,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-
-<!-- <a href="https://github.com/Florae006">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Florae006&count_private=true&show_icons=true&theme=graywhite&show_owner=true" />
-</a>
-<a href="https://github.com/Florae006/Florae006.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Florae006&repo=Florae006.github.io" />
-</a> -->
-
-<!-- | [![Florae006's GitHub stats](https://github-readme-stats.vercel.app/api?username=Florae006&count_private=true&show_icons=true&theme=graywhite&show_owner=true)](https://github.com/Florae006) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florae006&layout=compact&theme=graywhite)](https://github.com/Florae006) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | -->
-<div class="container">
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Florae006&count_private=true&show_icons=true&theme=graywhite&show_owner=true" />
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Florae006&layout=compact&theme=graywhite" />
-</div>
