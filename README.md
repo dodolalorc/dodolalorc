@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Florae006&repo=Florae006.github.io" />
 </a> -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Florae006&count_private=true&show_icons=true&theme=graywhite&show_owner=true)](https://github.com/Florae006)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florae006&layout=compact&theme=graywhite)](https://github.com/Florae006)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Florae006&repo=Florae006.github.io&show_owner=true&theme=graywhite)](https://github.com/Florae006/Florae006.github.io)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Florae006&repo=Florae006.github.io&show_owner=true&theme=graywhite)](https://github.com/Florae006/Florae006.github.io)
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Florae006&count_private=true&show_icons=true&theme=graywhite&show_owner=true)](https://github.com/Florae006) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florae006&layout=compact&theme=graywhite)](https://github.com/Florae006) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
