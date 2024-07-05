@@ -15,17 +15,13 @@ If you have any questions, you can contact me by email: [flora's email](mailto:c
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 84.5 kB Used in GitHub's Storage 
- > 
-> 🏆 142 Contributions in the Year 2024
+> 📦 85.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,45 +29,6 @@ If you have any questions, you can contact me by email: [flora's email](mailto:c
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-🌆 Daytime                67 commits          ██████████░░░░░░░░░░░░░░░   38.95 % 
-🌃 Evening                96 commits          ██████████████░░░░░░░░░░░   55.81 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Tuesday                  29 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Wednesday                29 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Friday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Saturday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Sunday                   46 commits          ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -89,7 +46,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Florae006/Florae006/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2024 10:59:47 UTC
+ Last Updated on 05/07/2024 18:40:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
