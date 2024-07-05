@@ -1,8 +1,17 @@
 ## Hi there 👋
 
-<div class="container">
-  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Florae006&count_private=true&show_icons=true&theme=graywhite&show_owner=true" />
-  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Florae006&layout=compact&theme=graywhite" />
+I'm flora. Now studying CS at university. 
+
+There is my blog: [flora's blog](https://florae006.github.io/). 
+
+You can find some articles about my learning experience and some interesting things.
+
+If you have any questions, you can contact me by email: [flora's email](mailto:chenflora124@gmail.com), or leave a message on my blog.
+
+### My GitHub Stats 📈
+<div style="display:flex;flex-direction:row;justify-content:center;">
+  <img height="150" class="img" src="https://github-readme-stats.vercel.app/api?username=Florae006&count_private=true&show_icons=true&theme=graywhite&show_owner=true" />
+  <img height="150" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Florae006&layout=compact&theme=graywhite" />
 </div>
 
 <!--START_SECTION:waka-->
