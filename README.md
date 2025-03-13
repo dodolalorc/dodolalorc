@@ -83,14 +83,6 @@ C++                      2 repos             ███░░░░░░░░�
 Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Florae006/Florae006/main/assets/bar_graph.png)
-
-
- Last Updated on 02/10/2024 18:46:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
