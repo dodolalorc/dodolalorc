@@ -16,7 +16,7 @@ If you have any questions, you can contact me by email: [flora's email](mailto:c
 </div>
 
 <!--START_SECTION:waka-->
-<div style="display:flex;flex-direction:row;justify-content:center;">
+<div style="display:flex;flex-direction:row;justify-content:center; items-align:center;">
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2028%20mins-blue)
 
