@@ -2,17 +2,17 @@
 
 I'm flora. Now studying CS at university.
 
-There is my blog: [flora's blog](https://florae006.github.io/) or [THIS SITE](https://dodolalorc.cn/).
+There is my blog: [flora's blog](https://dodolalorc.github.io/) or [THIS SITE](https://dodolalorc.cn/).
 
 You can find some articles about my learning experience and some interesting things.
 
-If you have any questions, you can contact me by email: [flora's email](mailto:chenflora124@gmail.com) or [THIS EMAIL](mailto:flora_chen2021@163.com), or leave a message on my blog through [comment board](https://florae006.github.io/comments/).
+If you have any questions, you can contact me by email: [flora's email](mailto:chenflora124@gmail.com) or [THIS EMAIL](mailto:flora_chen2021@163.com), or leave a message on my blog through [comment board](https://dodolalorc.github.io/comments/).
 
 ### My GitHub Stats 📈
 
 <div style="display:flex;flex-direction:row;justify-content:center;">
-  <img height="150" class="img" src="https://github-readme-stats.vercel.app/api?username=Florae006&count_private=true&show_icons=true&theme=graywhite&show_owner=true" />
-  <img height="150" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Florae006&layout=compact&theme=graywhite" />
+  <img height="150" class="img" src="https://github-readme-stats.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=graywhite&show_owner=true" />
+  <img height="150" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodolalorc&layout=compact&theme=graywhite" />
 </div>
 
 <!--START_SECTION:waka-->
@@ -25,6 +25,7 @@ If you have any questions, you can contact me by email: [flora's email](mailto:c
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 </div>
+
 **🐱 My GitHub Data**
 
 > 📦 154.3 kB Used in GitHub's Storage
