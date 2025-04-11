@@ -91,7 +91,7 @@ Python                   2 repos             ███░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--
-**Florae006/Florae006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dodolalorc/dodolalorc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
