@@ -30,7 +30,7 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 </div>
 
 <div align="center">
-  <img height="400"  src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/b9f2e475-2dfc-40c5-a13d-c5612f9ad42e.svg"/>
+  <img src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/b9f2e475-2dfc-40c5-a13d-c5612f9ad42e.svg"/>
 </div>
 
 <!--END_SECTION:waka-->
