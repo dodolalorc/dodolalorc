@@ -4,7 +4,7 @@ Hello everyone, I'm Flora, currently a junior college student majoring in Comput
 
 This is my blog: [dodolalorc](https://dodolalorc.github.io/) or [THIS SITE](https://dodolalorc.cn/), where you can find updates on what I'm working on, my learning journey, and other interesting things. 
 
-If you have any questions, feel free to reach out via my email: [flora's email](mailto:chenflora124@gmail.com) or leave a comment on my website—here’s the [link](https://dodolalorc.github.io/comments/).
+If you have any questions, feel free to reach out via my email: [flora's email](mailto:chenflora124@gmail.com) or leave a comment on my website — [here’s the link](https://dodolalorc.github.io/comments/).
 
 ### My GitHub Stats 📈
 
