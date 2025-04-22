@@ -18,10 +18,9 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 
 <!--START_SECTION:waka-->
 
+<img src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/a4cf4189-939f-444b-bcb7-1f49d4c72d5a.svg"/>
 
 <div style="width:100%;display:flex;flex-direction:row;justify-content:center; items-align:center;">
-
-<figure><embed src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/a4cf4189-939f-444b-bcb7-1f49d4c72d5a.svg"></embed></figure>
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2028%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
