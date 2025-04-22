@@ -9,9 +9,9 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 ### My GitHub Stats 📈
 
 <div style="width:100%;display:flex;flex-direction:row;justify-content:center;">
-  <img height="150" class="width:1/3;" src="https://github-readme-stats.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=radical&show_owner=true?include_all_commits=true" />
-  <img height="150" class="width:1/4;margin:10px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodolalorc&layout=compact&theme=radical&hide=javascript,html" />
-  <img height="150" class="width:1/4;" src="https://github-readme-streak-stats.herokuapp.com/?user=dodolalorc&theme=radical&hide_border=true" />
+  <img height="150" width="250" src="https://github-readme-stats.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=radical&show_owner=true?include_all_commits=true" />
+  <img height="150" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodolalorc&layout=compact&theme=radical&hide=javascript,html" />
+  <img height="150" width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=dodolalorc&theme=radical&hide_border=true" />
 </div>
 
 <!--START_SECTION:waka-->
@@ -21,7 +21,5 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 ![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2028%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 </div>
-
-
 
 <!--END_SECTION:waka-->
