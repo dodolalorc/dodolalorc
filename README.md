@@ -16,7 +16,7 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 <!--START_SECTION:waka-->
 <div style="width:100%;display:flex;flex-direction:row;justify-content:center; items-align:center;">
 
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2028%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2028%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 </div>
 
