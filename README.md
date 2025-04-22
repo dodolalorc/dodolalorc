@@ -8,14 +8,13 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 
 ### My GitHub Stats 📈
 
-<div style="display:flex;flex-direction:row;justify-content:center;">
-  <img height="150" class="img" src="https://github-readme-stats.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=radical&show_owner=true?include_all_commits=true" />
-  <img height="150" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodolalorc&layout=compact&theme=radical&hide=javascript,html" />
+<div style="width:100%;display:flex;flex-direction:row;justify-content:center;">
+  <img height="150" class="width:1/3;" src="https://github-readme-stats.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=radical&show_owner=true?include_all_commits=true" />
+  <img height="150" class="width:1/4;margin:10px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodolalorc&layout=compact&theme=radical&hide=javascript,html" />
+  <img height="150" class="width:1/4;" src="https://github-readme-streak-stats.herokuapp.com/?user=dodolalorc&theme=radical&hide_border=true" />
 </div>
 
 <!--START_SECTION:waka-->
-
-<img align='center'src="https://github-readme-stats.vercel.app/api/wakatime?username=dodolalorc"/> 
 
 <div style="width:100%;display:flex;flex-direction:row;justify-content:center; items-align:center;">
 
