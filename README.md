@@ -24,7 +24,7 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 </div>
 
 <div align="center">
-  <img src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/b9f2e475-2dfc-40c5-a13d-c5612f9ad42e.svg"/>
+  <img src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/39b7698a-3d6b-4f5b-bd7d-e8d3e713af9c.svg"/>
 </div>
 
 <div  align="center">
