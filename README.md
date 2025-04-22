@@ -18,7 +18,9 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 
 <!--START_SECTION:waka-->
 
-<img height="500"  align="center" src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/a4cf4189-939f-444b-bcb7-1f49d4c72d5a.svg"/>
+<div align="center">
+  <img height="500"  src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/a4cf4189-939f-444b-bcb7-1f49d4c72d5a.svg"/>
+</div>
 
 <div  align="center">
 
