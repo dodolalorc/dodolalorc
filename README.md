@@ -8,7 +8,7 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 
 ### My GitHub Stats 📈
 
-<div style="width:100%;display:flex;flex-direction:row;justify-content:center;">
+<div style="display: block; margin-left: auto; margin-right: auto;">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=radical&show_owner=true?include_all_commits=true" />
   <!-- <img height="150" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodolalorc&layout=compact&theme=radical&hide=javascript,html" /> -->
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=dodolalorc&theme=radical&hide_border=true" />
@@ -18,7 +18,7 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 
 <!--START_SECTION:waka-->
 
-<img height="500" src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/a4cf4189-939f-444b-bcb7-1f49d4c72d5a.svg"/>
+<img height="500" style="display: block; margin-left: auto; margin-right: auto;" src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/a4cf4189-939f-444b-bcb7-1f49d4c72d5a.svg"/>
 
 <div style="width:100%;display:flex;flex-direction:row;justify-content:center; items-align:center;">
 
