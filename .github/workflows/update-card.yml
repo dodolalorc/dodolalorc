@@ -21,7 +21,7 @@ jobs:
           node-version: "16"
 
       - name: Install dependencies
-        run: |
+        run: npm install node-fetch
              npm install animejs
 
       - name: Generate card

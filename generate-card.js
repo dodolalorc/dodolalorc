@@ -1,5 +1,6 @@
 // generate-card.js
 const fs = require('fs');
+const fetch = require('node-fetch'); // 引入 node-fetch
 
 // 获取GitHub数据的示例
 async function fetchGitHubData(username) {
@@ -22,9 +23,15 @@ async function fetchGitHubData(username) {
 }
 
 async function generateAnimeJSCard() {
-  await fetchGitHubData('dodolalorc').then(data => {
-    console.log('GitHub数据:', data);
-    return `
+  const data = await fetchGitHubData('dodolalorc').catch(error => {
+    console.error('Error fetching GitHub data:', error);
+    return null; // 返回 null 以处理错误
+  });
+
+  if (!data) {
+    throw new Error('Failed to fetch GitHub data. Cannot generate card.');
+  }
+  return `
     <svg width="600" height="350" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <style>
@@ -77,10 +84,6 @@ async function generateAnimeJSCard() {
       </rect>
     </svg>
   `;
-  }).catch(error => {
-    console.error('Error fetching GitHub data:', error);
-    return '';
-  });
 }
 
 // 保存SVG文件
