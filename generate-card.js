@@ -1,9 +1,8 @@
 // generate-card.js
 const fs = require('fs');
-const fetch = require('node-fetch'); // 引入 node-fetch
-
 // 获取GitHub数据的示例
 async function fetchGitHubData(username) {
+  const fetch = (await import('node-fetch')).default; // 动态导入 node-fetch
   const response = await fetch(`https://api.github.com/users/${username}`);
   const data = await response.json();
 
