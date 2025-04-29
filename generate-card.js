@@ -86,17 +86,6 @@ async function generateAnimeJSCard() {
   `;
 }
 
-// 保存png文件
-async function saveAsPng(svgContent, outputPath) {
-  const canvas = createCanvas(600, 350);
-  const ctx = canvas.getContext('2d');
-  const svgBuffer = Buffer.from(svgContent);
-  const image = await loadImage('data:image/svg+xml;base64,' + svgBuffer.toString('base64'));
-  ctx.drawImage(image, 0, 0);
-  const buffer = canvas.toBuffer('image/png');
-  fs.writeFileSync(outputPath, buffer);
-  console.log(`PNG card generated: ${outputPath}`);
-}
 
 // 保存SVG文件
 (async () => {
