@@ -21,16 +21,14 @@ jobs:
           node-version: "16"
 
       - name: Install dependencies
-        run: npm install node-fetch
+        run: |
+          npm install node-fetch
           npm install canvas
           npm install fs
           npm install animejs
 
       - name: Generate card
         run: node generate-card.js
-
-      - name: Clean up node_modules
-        run: rm -rf node_modules
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
@@ -39,7 +37,7 @@ jobs:
           path: |
             card.png
             card.svg
-
+      
       - name: Commit and push assets
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -47,8 +45,19 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p assets
-          mv card.png assets/
-          mv card.svg assets/
+          # 检查文件是否存在再移动
+          if [ -f "card.png" ]; then
+            mv card.png assets/
+          fi
+          if [ -f "card.svg" ]; then
+            mv card.svg assets/
+          fi
+          # 只添加目标文件
           git add assets/card.png assets/card.svg
-          git commit -m "Add generated cards to assets"
-          git push
+          # 检查是否有变更需要提交
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Add generated cards to assets"
+            git push
+          else
+            echo "No changes to commit"
+          fi
