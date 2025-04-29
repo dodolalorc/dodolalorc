@@ -57,11 +57,6 @@ async function generateAnimeJSCard() {
       <!-- 脉冲点 -->
       <circle cx="570" cy="40" r="5" fill="#4ade80" style="animation: pulse 1.5s infinite" />
       
-      <!-- 头像 -->
-      <clipPath id="avatarClip">
-        <circle cx="540" cy="70" r="40" />
-      </clipPath>
-      <image href="${data.avatar_url}" x="500" y="30" width="80" height="80" clip-path="url(#avatarClip)" />
       
       <!-- 文本内容 -->
       <text x="30" y="60" font-family="Arial" font-size="24" font-weight="bold" fill="white">${data.bio}</text>
