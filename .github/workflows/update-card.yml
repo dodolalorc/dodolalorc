@@ -1,0 +1,32 @@
+name: Test Card Generation
+
+on:
+  workflow_dispatch: # 允许手动触发
+  schedule:
+    - cron: "0 * * * *" # 每小时运行一次测试
+
+jobs:
+  generate-card:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+
+      - name: Install dependencies
+        run: npm install canvas
+
+      - name: Generate card
+        run: node generate-card.js
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: generated-card
+          path: |
+            card.png
+            card.svg
