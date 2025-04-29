@@ -34,6 +34,13 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 
 <!--END_SECTION:waka-->
 
-![my card](./assets/card.png)
 
-![my card](./assets/card.png)
+---
+
+这里只是测试时(( 请忽略
+<div  align="center">
+  ![my card](./assets/card.png)
+</div>
+<div  align="center">
+  ![my card](./assets/card.svg)
+</div>
