@@ -4,6 +4,9 @@ on:
   workflow_dispatch: # 允许手动触发
   schedule:
     - cron: "0 * * * *" # 每小时运行一次测试
+  push:
+    branches:
+      - main
 
 jobs:
   generate-card:
@@ -30,3 +33,14 @@ jobs:
           path: |
             card.png
             card.svg
+
+      - name: Commit and push assets
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p assets
+          mv card.png assets/
+          mv card.svg assets/
+          git add assets/card.png assets/card.svg
+          git commit -m "Add generated cards to assets"
+          git push

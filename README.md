@@ -34,6 +34,6 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 
 <!--END_SECTION:waka-->
 
-![my card](./card.png)
+![my card](./assets/card.png)
 
-![my card](./card.svg)
+![my card](./assets/card.png)
