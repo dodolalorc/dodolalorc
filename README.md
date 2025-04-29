@@ -41,6 +41,3 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 <div  align="center">
   <img height="150"  src="./assets/card.png"/>
 </div>
-<div  align="center">
-  <img height="150"  src="./assets/card.svg"/>
-</div>
