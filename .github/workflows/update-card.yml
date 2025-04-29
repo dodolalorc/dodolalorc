@@ -22,6 +22,8 @@ jobs:
 
       - name: Install dependencies
         run: npm install node-fetch
+             npm install canvas
+             npm install fs
              npm install animejs
 
       - name: Generate card

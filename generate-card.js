@@ -1,5 +1,6 @@
 // generate-card.js
 const fs = require('fs');
+const { createCanvas, loadImage } = require('canvas');
 // 获取GitHub数据的示例
 async function fetchGitHubData(username) {
   const fetch = (await import('node-fetch')).default; // 动态导入 node-fetch
@@ -84,6 +85,23 @@ async function generateAnimeJSCard() {
     </svg>
   `;
 }
+
+// 保存png文件
+async function saveAsPng(svgContent, outputPath) {
+  const canvas = createCanvas(600, 350);
+  const ctx = canvas.getContext('2d');
+  const svgBuffer = Buffer.from(svgContent);
+  const image = await loadImage('data:image/svg+xml;base64,' + svgBuffer.toString('base64'));
+  ctx.drawImage(image, 0, 0);
+  const buffer = canvas.toBuffer('image/png');
+  fs.writeFileSync(outputPath, buffer);
+  console.log(`PNG card generated: ${outputPath}`);
+}
+
+(async () => {
+  const svgContent = await generateAnimeJSCard();
+  await saveAsPng(svgContent, 'card.png');
+})();
 
 // 保存SVG文件
 (async () => {
