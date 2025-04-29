@@ -1,9 +1,9 @@
 name: Test Card Generation
 
 on:
-  workflow_dispatch: # 允许手动触发
+  workflow_dispatch:
   schedule:
-    - cron: "0 * * * *" # 每小时运行一次测试
+    - cron: "0 * * * *"
   push:
     branches:
       - main
@@ -22,10 +22,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm install node-fetch
-          npm install canvas
-          npm install fs
-          npm install animejs
+          npm install node-fetch canvas animejs
 
       - name: Generate card
         run: node generate-card.js
@@ -35,29 +32,27 @@ jobs:
         with:
           name: generated-card
           path: |
-            card.png
             card.svg
-      
+
       - name: Commit and push assets
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用默认的 GITHUB_TOKEN
         run: |
+          # 配置 Git
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 移动生成的卡片文件到 assets 目录
           mkdir -p assets
-          # 检查文件是否存在再移动
-          if [ -f "card.png" ]; then
-            mv card.png assets/
-          fi
-          if [ -f "card.svg" ]; then
-            mv card.svg assets/
-          fi
-          # 只添加目标文件
-          git add assets/card.png assets/card.svg
-          # 检查是否有变更需要提交
-          if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Add generated cards to assets"
-            git push
+          [ -f "card.svg" ] && mv card.svg assets/
+
+          # 仅添加卡片文件，忽略其他未跟踪文件
+          git add assets/
+
+          # 检查是否有实际变更
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit."
           else
-            echo "No changes to commit"
+            git commit -m "Auto-generated card: $(date +'%Y-%m-%d %H:%M')"
+            git push
           fi

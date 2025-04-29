@@ -98,11 +98,6 @@ async function saveAsPng(svgContent, outputPath) {
   console.log(`PNG card generated: ${outputPath}`);
 }
 
-(async () => {
-  const svgContent = await generateAnimeJSCard();
-  await saveAsPng(svgContent, 'card.png');
-})();
-
 // 保存SVG文件
 (async () => {
   const svgContent = await generateAnimeJSCard();
