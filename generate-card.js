@@ -21,8 +21,8 @@ async function fetchGitHubData(username) {
   };
 }
 
-function generateAnimeJSCard() {
-  fetchGitHubData('dodolalorc').then(data => {
+async function generateAnimeJSCard() {
+  await fetchGitHubData('dodolalorc').then(data => {
     console.log('GitHub数据:', data);
     return `
     <svg width="600" height="350" xmlns="http://www.w3.org/2000/svg">
@@ -84,5 +84,8 @@ function generateAnimeJSCard() {
 }
 
 // 保存SVG文件
-fs.writeFileSync('card.svg', generateAnimeJSCard());
-console.log('SVG card generated: card.svg');
+(async () => {
+  const svgContent = await generateAnimeJSCard();
+  fs.writeFileSync('card.svg', svgContent);
+  console.log('SVG card generated: card.svg');
+})();
