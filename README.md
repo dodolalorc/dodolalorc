@@ -24,15 +24,9 @@ If you have any questions, feel free to reach out via my email: [flora's email](
   </a>
 </div>
 
-<!--START_SECTION:waka-->
-<div align="center">
-
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2028%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
-
-</div>
-
 ### My WakaTime Stats 📈
 
+<!--START_SECTION:waka-->
 <div align="center">
   <img height="400"  src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/26f5268b-7609-4e8d-b107-3b182b89a7db.svg"/>
 </div>
