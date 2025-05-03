@@ -30,19 +30,11 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 <div align="center">
   <img height="400"  src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/26f5268b-7609-4e8d-b107-3b182b89a7db.svg"/>
 </div>
-<!-- <figure align="center"><embed src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/26f5268b-7609-4e8d-b107-3b182b89a7db.svg"></embed></figure> -->
 
 <div align="center">
   <img src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/72240eed-453d-4598-9bed-7baa9879f1a0.svg"/>
 </div>
-<!-- <figure align="center"></figure><embed src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/72240eed-453d-4598-9bed-7baa9879f1a0.svg"></embed></figure> -->
-
 <!--END_SECTION:waka-->
 
 
----
-
-<!-- 这里只是测试时(( 请忽略
-<div  align="center">
-  <img height="150"  src="./assets/card.svg"/>
-</div> -->
+![Metrics](https://metrics.lecoq.io/dodolalorc?template=classic&16personalities=1&screenshot=1&splatoon=1&languages=1&lines=1&stars=1&habits=1&followup=1&people=1&reactions=1&achievements=1&activity=1&projects=1&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=html&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&projects=false&projects.limit=4&projects.descriptions=false&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=dodola&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=false&wakatime.languages.ignored=html&wakatime.repositories.visibility=all&16personalities=false&16personalities.url=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2Fintj-a%2Ff%2Fscz6wgil2&16personalities.sections=personality&16personalities.scores=true&screenshot=false&screenshot.title=Screenshot&screenshot.url=https%3A%2F%2Fdodolalorc.cn%2F&screenshot.selector=body&screenshot.mode=image&screenshot.viewport=%7B%0A%20%20%22width%22%3A%201280%2C%0A%20%20%22height%22%3A%201280%0A%7D%0A&screenshot.wait=0&screenshot.background=true&splatoon=false&splatoon.sections=player%2C%20versus%2C%20salmon-run&splatoon.versus.limit=1&splatoon.salmon.limit=1&splatoon.statink=false&splatoon.source=splatnet&config.timezone=Asia%2FShanghai)
