@@ -14,25 +14,23 @@ If you have any questions, feel free to reach out via my email: [flora's email](
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dodolalorc&theme=radical&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" />
 </div>
 
-### My WakaTime Stats 📈
 
 <!--START_SECTION:waka-->
+<div  align="center">
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2028%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+</div>
+
+### My WakaTime Stats 📈
 
 <div align="center">
   <img height="400"  src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/26f5268b-7609-4e8d-b107-3b182b89a7db.svg"/>
 </div>
-<figure align="center"><embed src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/26f5268b-7609-4e8d-b107-3b182b89a7db.svg"></embed></figure>
+<!-- <figure align="center"><embed src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/26f5268b-7609-4e8d-b107-3b182b89a7db.svg"></embed></figure> -->
 
 <div align="center">
   <img src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/72240eed-453d-4598-9bed-7baa9879f1a0.svg"/>
 </div>
-<figure align="center"></figure><embed src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/72240eed-453d-4598-9bed-7baa9879f1a0.svg"></embed></figure>
-
-<div  align="center">
-
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2028%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
-
-</div>
+<!-- <figure align="center"></figure><embed src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/72240eed-453d-4598-9bed-7baa9879f1a0.svg"></embed></figure> -->
 
 <!--END_SECTION:waka-->
 
