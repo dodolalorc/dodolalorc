@@ -24,6 +24,6 @@ If you have any questions, feel free to reach out via my email: [flora's email](
   </a>
 </div>
 
-### My WakaTime Stats 📈
+<!-- ### My WakaTime Stats 📈 -->
 
-<img align="center" src="./github-metrics.svg" alt="Metrics" width="100%" />
+<!-- <img align="center" src="./github-metrics.svg" alt="Metrics" width="100%" /> -->
