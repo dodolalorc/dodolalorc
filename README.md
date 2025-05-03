@@ -15,11 +15,12 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 </div>
 
 ### My Github Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dodolalorc&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"  align="center">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=dodolalorc&column=10&theme=tokyonight&no-frame=true"/>
+</a>
 
 <!--START_SECTION:waka-->
-<div  align="center">
+<div align="center">
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2028%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
