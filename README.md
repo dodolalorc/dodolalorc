@@ -42,7 +42,7 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 
 ---
 
-这里只是测试时(( 请忽略
+<!-- 这里只是测试时(( 请忽略
 <div  align="center">
   <img height="150"  src="./assets/card.svg"/>
-</div>
+</div> -->
