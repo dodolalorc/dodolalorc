@@ -15,9 +15,12 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 </div>
 
 ### My Github Profile Trophy 🏆
-<a href="https://github.com/ryo-ma/github-profile-trophy"  align="center">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=dodolalorc&column=10&theme=tokyonight&no-frame=true"/>
-</a>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=dodolalorc&column=10&theme=tokyonight&no-frame=true"/>
+  </a>
+</div>
 
 <!--START_SECTION:waka-->
 <div align="center">
