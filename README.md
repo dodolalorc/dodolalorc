@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello everyone, I'm Flora, currently a junior college student majoring in Computer Science (CS).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco+Nerd+Font+Mono&pause=1000&color=4C6CF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+everyone%2C+I'm+Flora%2C;currently+a+junior+majoring+in+Computer+Science;+and+I'm+doing+an+internship.)](https://git.io/typing-svg)
 
 This is my blog: [dodolalorc.github.io](https://dodolalorc.github.io/) or [dodolalorc.cn](https://dodolalorc.cn/), where you can find updates on what I'm working on, my learning journey, and other interesting things.
 
