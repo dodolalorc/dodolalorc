@@ -36,4 +36,4 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 </div>
 <!--END_SECTION:waka-->
 
-<img src="./github-metrics.svg" alt="Metrics" />
+<img align="center" src="./github-metrics.svg" alt="Metrics" width="100%" />
