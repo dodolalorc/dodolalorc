@@ -26,14 +26,4 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 
 ### My WakaTime Stats 📈
 
-<!--START_SECTION:waka-->
-<div align="center">
-  <img height="400"  src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/26f5268b-7609-4e8d-b107-3b182b89a7db.svg"/>
-</div>
-
-<div align="center">
-  <img src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/72240eed-453d-4598-9bed-7baa9879f1a0.svg"/>
-</div>
-<!--END_SECTION:waka-->
-
 <img align="center" src="./github-metrics.svg" alt="Metrics" width="100%" />
