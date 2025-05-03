@@ -90,10 +90,8 @@ jobs:
           plugin_screenshot_selector: body
           plugin_screenshot_title: Screenshot
           plugin_screenshot_url: https://dodolalorc.cn/
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
+          plugin_screenshot_width: 1280
+          plugin_screenshot_height: 720
 
           plugin_splatoon: yes
           plugin_splatoon_salmon_limit: 1
