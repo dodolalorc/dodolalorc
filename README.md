@@ -18,13 +18,15 @@ If you have any questions, feel free to reach out via my email: [flora's email](
 
 <!--START_SECTION:waka-->
 
-<div align="center">
+<!-- <div align="center">
   <img height="400"  src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/a4cf4189-939f-444b-bcb7-1f49d4c72d5a.svg"/>
-</div>
+</div> -->
+<figure align="center"><embed src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/26f5268b-7609-4e8d-b107-3b182b89a7db.svg"></embed></figure>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/39b7698a-3d6b-4f5b-bd7d-e8d3e713af9c.svg"/>
-</div>
+</div> -->
+<figure align="center"><embed src="https://wakatime.com/share/@9472cdb1-67de-4364-97df-8c579596a053/72240eed-453d-4598-9bed-7baa9879f1a0.svg"></embed></figure>
 
 <div  align="center">
 
