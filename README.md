@@ -14,6 +14,9 @@ If you have any questions, feel free to reach out via my email: [flora's email](
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dodolalorc&theme=radical&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" />
 </div>
 
+### My Github Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dodolalorc&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
 <div  align="center">
