@@ -1,5 +1,4 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics Splatoon
+name: Splatnet data with stat.ink integration
 on:
   # Schedule updates (each hour)
   schedule: [{ cron: "0 * * * *" }]
@@ -14,21 +13,25 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.splatoon.svg
           token: ${{ secrets.GH_TOKEN }}
-
+          base: ""
+          
           # Options
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/profiles/intj-a/f/scz6wgil2
+          # plugin_16personalities: yes
+          # plugin_16personalities_scores: yes
+          # plugin_16personalities_sections: personality
+          # plugin_16personalities_url: https://www.16personalities.com/profiles/intj-a/f/scz6wgil2
           
           # Splatoon
           plugin_splatoon: yes
           plugin_splatoon_token: ${{ secrets.SPLATOON_TOKEN }}
-          plugin_splatoon_salmon_limit: 1
-          plugin_splatoon_sections: player, versus, salmon-run
-          plugin_splatoon_source: splatnet
-          plugin_splatoon_versus_limit: 1
+          # plugin_splatoon_salmon_limit: 1
+          # plugin_splatoon_sections: player, versus, salmon-run
+          # plugin_splatoon_source: splatnet
+          # plugin_splatoon_versus_limit: 1
           plugin_splatoon_statink: yes
           plugin_splatoon_statink_token: ${{ secrets.SPLATOON_STATINK_TOKEN }}
+          extras_css: |
+            h2 { display: none !important; }
           
