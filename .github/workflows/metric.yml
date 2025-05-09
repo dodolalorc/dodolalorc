@@ -17,9 +17,6 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
           # Options
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Shanghai
-          plugin_lines: yes
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
           plugin_16personalities_sections: personality
@@ -35,11 +32,3 @@ jobs:
           plugin_splatoon_statink: yes
           plugin_splatoon_statink_token: ${{ secrets.SPLATOON_STATINK_TOKEN }}
           
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_languages_ignored: html
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: dodolalorc
