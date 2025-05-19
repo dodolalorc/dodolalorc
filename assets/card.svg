@@ -37,7 +37,7 @@
       <text x="175" y="140" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Vue</text>
       
       <!-- 统计数据 -->
-      <text x="100" y="250" font-family="Arial" font-size="28" text-anchor="middle" fill="white">17</text>
+      <text x="100" y="250" font-family="Arial" font-size="28" text-anchor="middle" fill="white">20</text>
       <text x="100" y="280" font-family="Arial" font-size="12" text-anchor="middle" fill="rgba(255,255,255,0.8)">Repositories</text>
       
       <!-- 动画边框 -->
