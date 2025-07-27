@@ -6,7 +6,7 @@
 
 This is my blog: [dodolalorc.github.io](https://dodolalorc.github.io/) or [dodolalorc.cn](https://dodolalorc.cn/), where you can find updates on what I'm working on, my learning journey, and other interesting things.
 
-If you have any questions, feel free to reach out via my email: [flora's email](mailto:chenflora124@gmail.com) or leave a comment on my website — [here’s the link](https://dodolalorc.github.io/about/).
+If you have any questions, feel free to reach out via my email: [flora's email](mailto:chenflora124@gmail.com) or leave a comment on my website — [here’s the link](https://dodolalorc.github.io/).
 
 ### My GitHub Stats 📈
 
