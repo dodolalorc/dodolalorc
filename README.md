@@ -1,9 +1,5 @@
 ## 你好 👋 | Hi there 👋
 
-I'm an ordinary CS undergraduate currently working at ByteDance as a front-end engineer.
-
-这里是一名普通 CS 本科生，目前在字节跳动工作，担任前端开发工程师。
-
 MBTI Type: INTJ-A | Born in 2002, low-energy homebody | Omnivorous in interests
 
 MBTI 类型：INTJ-A | 02 年低精力宅 | 杂食一切
