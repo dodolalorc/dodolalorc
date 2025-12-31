@@ -2,8 +2,6 @@
 
 MBTI Type: INTJ-A | Born in 2002, low-energy homebody | Omnivorous in interests
 
-MBTI 类型：INTJ-A | 02 年低精力宅 | 杂食一切
-
 My blog: [dodolalorc.cn](https://dodolalorc.cn/) | [dodolalorc.github.io](https://dodolalorc.github.io/), where you can find more detailed information about me.
 
 我的博客地址：[dodolalorc.cn](https://dodolalorc.cn/) | [dodolalorc.github.io](https://dodolalorc.github.io/)，其中有更详细的自我介绍。
