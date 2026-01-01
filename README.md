@@ -4,8 +4,6 @@ MBTI Type: INTJ-A | Born in 2002, low-energy homebody | Omnivorous in interests
 
 My blog: [dodolalorc.cn](https://dodolalorc.cn/) | [dodolalorc.github.io](https://dodolalorc.github.io/), where you can find more detailed information about me.
 
-我的博客地址：[dodolalorc.cn](https://dodolalorc.cn/) | [dodolalorc.github.io](https://dodolalorc.github.io/)，其中有更详细的自我介绍。
-
 Feel free to reach out via email [flora's email](mailto:dodolalorc@gmail.com) or leave a comment on my website — [click here](https://dodolalorc.github.io/).
 
 如有任何问题，欢迎通过邮件 [flora's email](mailto:dodolalorc@gmail.com) 与我联系，或在我的网站上的评论区留言 — [点击这里](https://dodolalorc.github.io/)。
