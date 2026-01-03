@@ -6,7 +6,7 @@ My blog: [dodolalorc.cn](https://dodolalorc.cn/) | [dodolalorc.github.io](https:
 
 Feel free to reach out via email [flora's email](mailto:dodolalorc@gmail.com) or leave a comment on my website — [click here](https://dodolalorc.github.io/).
 
-### GitHub 统计数据 📈 | My GitHub Stats 📈
+### My GitHub Stats 📈
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=tokyonight&show_owner=true?include_all_commits=true" />
