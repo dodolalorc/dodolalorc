@@ -9,7 +9,7 @@ Feel free to reach out via email [flora's email](mailto:dodolalorc@gmail.com) or
 ### My GitHub Stats 📈
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=tokyonight&show_owner=true?include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats-two-sand-73.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=tokyonight&show_owner=true?include_all_commits=true" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dodolalorc&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" />
 </div>
 
