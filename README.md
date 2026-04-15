@@ -1,15 +1,15 @@
 ## 你好 👋 | Hi there 👋
 
-MBTI Type: INTJ-A | Born in 2002, low-energy homebody | Omnivorous in interests
+INTJ-A | Born in 2002
 
-My blog: [dodolalorc.cn](https://dodolalorc.cn/) | [dodolalorc.github.io](https://dodolalorc.github.io/), where you can find more detailed information about me.
+My blog: [dodolalorc.cn](https://dodolalorc.cn/) | [dodolalorc.github.io](https://dodolalorc.github.io/).
 
 Feel free to reach out via email [flora's email](mailto:dodolalorc@gmail.com) or leave a comment on my website — [click here](https://dodolalorc.github.io/).
 
 ### My GitHub Stats 📈
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats-two-sand-73.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=tokyonight&show_owner=true?include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats-two-sand-73.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=tokyonight&show_owner=true?include_all_commits=true&include_orgs=true" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dodolalorc&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" />
 </div>
 
@@ -17,7 +17,7 @@ Feel free to reach out via email [flora's email](mailto:dodolalorc@gmail.com) or
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=dodolalorc&column=10&theme=tokyonight&no-frame=true"/>
+    <img width=800 src="https://trophy.benkou.dev/?username=dodolalorc&column=10&theme=tokyonight&no-frame=true"/>
   </a>
 </div>
 
@@ -25,4 +25,4 @@ Feel free to reach out via email [flora's email](mailto:dodolalorc@gmail.com) or
 
 ### 技能图标 🛠 | My Skill Icons 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,vue,cpp,rust,py,tauri,github,nuxtjs,obsidian,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,vue,cpp,rust,py,tauri,github,nuxtjs,obsidian)](https://skillicons.dev)
