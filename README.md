@@ -24,23 +24,4 @@
 
 | My GitHub Stats 📈 | My Github Profile Trophy & Skills |
 |-----|-----|
-|<p align="center"><img width="350" align="center" src="https://github-readme-stats-two-sand-73.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=tokyonight&show_owner=true?include_all_commits=true&include_orgs=true" /><img width="350" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dodolalorc&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" /></p>| <div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="800" src="https://trophy.benkou.dev/?username=dodolalorc&column=5&theme=tokyonight&no-frame=true"/></a></div>[![My Skills](https://skillicons.dev/icons?i=ts,vue,cpp,rust,py,tauri,github,nuxtjs,obsidian)](https://skillicons.dev) |
-
-<!-- ### My GitHub Stats 📈
-
-<div align="center">
-  <img height="150" align="center" src="https://github-readme-stats-two-sand-73.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=tokyonight&show_owner=true?include_all_commits=true&include_orgs=true" />
-  <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dodolalorc&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" />
-</div>
-
-### My Github Profile Trophy 🏆
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://trophy.benkou.dev/?username=dodolalorc&column=10&theme=tokyonight&no-frame=true"/>
-  </a>
-</div>
-
-### My Skill Icons 🛠
-
-[![My Skills](https://skillicons.dev/icons?i=ts,vue,cpp,rust,py,tauri,github,nuxtjs,obsidian)](https://skillicons.dev) -->
+|<p align="center"><img width="350" align="center" src="https://github-readme-stats-two-sand-73.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=tokyonight&show_owner=true?include_all_commits=true&include_orgs=true" /><img width="350" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dodolalorc&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" /></p>| <div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="800" src="https://trophy.benkou.dev/?username=dodolalorc&column=5&theme=tokyonight&no-frame=true"/></a></div>[![My Skills](https://skillicons.dev/icons?perline=9&i=ts,vue,cpp,rust,py,tauri,github,nuxtjs,obsidian,react,bun,discord,docker,gmail,pinia,vscode,tailwind)](https://skillicons.dev) |
