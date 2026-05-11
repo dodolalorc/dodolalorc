@@ -1,25 +1,5 @@
 ## 你好 👋 | Hi there 👋
 
-<!-- <table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="60%">
-
-INTJ-A | Born in 2002
-
-My blog: [dodolalorc.cn](https://dodolalorc.cn/) | [dodolalorc.github.io](https://dodolalorc.github.io/).
-
-Feel free to reach out via email [flora's email](mailto:dodolalorc@gmail.com) or leave a comment on my website — [click here](https://dodolalorc.github.io/).
-
-[![wakatime](https://wakatime.com/badge/user/9472cdb1-67de-4364-97df-8c579596a053.svg)](https://wakatime.com/@9472cdb1-67de-4364-97df-8c579596a053)
-
-  </td>
-  <td align="center" valign="top" width="40%">
-    <img src="./4f766531725c8d207b19e353f08b5e38.svg" />
-  </td>
-  </tr>
-</table> -->
-
-
 <img align="right" src="./4f766531725c8d207b19e353f08b5e38.svg" width="220" />
 
 INTJ-A | Born in 2002
@@ -34,8 +14,8 @@ Feel free to reach out via email [flora's email](mailto:dodolalorc@gmail.com) or
 ### My GitHub Stats 📈
 
 <div align="center">
-  <img height="150" align="center" src="https://github-readme-stats-two-sand-73.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=tokyonight&show_owner=true?include_all_commits=true&include_orgs=true" />
-  <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dodolalorc&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" />
+  <img height="120" align="center" src="https://github-readme-stats-two-sand-73.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=tokyonight&show_owner=true?include_all_commits=true&include_orgs=true" />
+  <img height="120" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dodolalorc&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" />
 </div>
 
 ### My Github Profile Trophy 🏆
