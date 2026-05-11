@@ -30,7 +30,10 @@ $ whoami
 AI-native builder
 
 $ current_focus
-workflow · tools · knowledge systems
+- 🛠 Building AI-native tools and workflows.
+- ⚡ Exploring TypeScript, Rust, and Python.
+- 📚 Writing notes, blogs, and open-source projects.
+- 🤖 Interested in AI products and developer experience.
 
 $ stack
 TypeScript / Vue / Rust / Python / Tauri / Obsidian
