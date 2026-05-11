@@ -18,11 +18,23 @@
 <!-- 右侧的图片喵 -->
 <img align="right" src="./4f766531725c8d207b19e353f08b5e38.svg" width="220" />
 
+### Now
 
-- Building and exploring AI-native workflows and tools.
-- Working with TypeScript, Rust, and Python.
-- Writing, learning, and contributing to open source.
-- Interested in AI, developer experience, and human-centered products.
+- 🛠 Building AI-native tools and workflows.
+- ⚡ Exploring TypeScript, Rust, and Python.
+- 📚 Writing notes, blogs, and open-source projects.
+- 🤖 Interested in AI products and developer experience.
+
+```bash
+$ whoami
+AI-native builder
+
+$ current_focus
+workflow · tools · knowledge systems
+
+$ stack
+TypeScript / Vue / Rust / Python / Tauri / Obsidian
+```
 
 [![wakatime](https://wakatime.com/badge/user/9472cdb1-67de-4364-97df-8c579596a053.svg)](https://wakatime.com/@9472cdb1-67de-4364-97df-8c579596a053)
 
