@@ -13,9 +13,7 @@
 
 <img align="right" src="./4f766531725c8d207b19e353f08b5e38.svg" width="220" />
 
-My blog: [dodolalorc.cn](https://dodolalorc.cn/)
-
-Feel free to reach out via [email](mailto:dodolalorc@gmail.com).
+[![Blog](https://img.shields.io/badge/Blog-dodolalorc.cn-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dodolalorc.cn/) [![Email](https://img.shields.io/badge/Email-dodolalorc%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dodolalorc@gmail.com)
 
 - Building and exploring AI-native workflows and tools.
 - Working with TypeScript, Rust, and Python.
