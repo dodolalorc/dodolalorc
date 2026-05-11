@@ -18,12 +18,12 @@
 <!-- 右侧的图片喵 -->
 <img align="right" src="./4f766531725c8d207b19e353f08b5e38.svg" width="220" />
 
-### Now
+<!-- ### Now
 
 - 🛠 Building AI-native tools and workflows.
 - ⚡ Exploring TypeScript, Rust, and Python.
 - 📚 Writing notes, blogs, and open-source projects.
-- 🤖 Interested in AI products and developer experience.
+- 🤖 Interested in AI products and developer experience. -->
 
 ```bash
 $ whoami
