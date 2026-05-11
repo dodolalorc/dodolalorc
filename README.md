@@ -1,5 +1,9 @@
 ## 你好 👋 | Hi there 👋
 
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" width="60%">
+
 INTJ-A | Born in 2002
 
 My blog: [dodolalorc.cn](https://dodolalorc.cn/) | [dodolalorc.github.io](https://dodolalorc.github.io/).
@@ -7,6 +11,13 @@ My blog: [dodolalorc.cn](https://dodolalorc.cn/) | [dodolalorc.github.io](https:
 Feel free to reach out via email [flora's email](mailto:dodolalorc@gmail.com) or leave a comment on my website — [click here](https://dodolalorc.github.io/).
 
 [![wakatime](https://wakatime.com/badge/user/9472cdb1-67de-4364-97df-8c579596a053.svg)](https://wakatime.com/@9472cdb1-67de-4364-97df-8c579596a053)
+
+  </td>
+  <td align="center" valign="top" width="40%">
+    <img src="./4f766531725c8d207b19e353f08b5e38.svg" />
+  </td>
+  </tr>
+</table>
 
 ### My GitHub Stats 📈
 
