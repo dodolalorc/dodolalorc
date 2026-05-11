@@ -1,21 +1,38 @@
-## 你好 👋 | Hi there 👋
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=18&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+dodola.+An+AI+Native+Developer" alt="Hi, I'm dodola. An AI Native Developer" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=18&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=700&lines=A+curious+coder%2C+always+learning" alt="A curious coder, always learning" />
+
+
+<p align="center">
+  👋<strong>Interested in AI-native products, workflows, and developer experience.</strong>
+</p>
+<p  align="center">
+  <code>🌱 Born 2002</code>
+  <code>♟️ INTJ-A</code>
+  <code>📍 Across Shenzhen.</code>
+</p>
 
 <img align="right" src="./4f766531725c8d207b19e353f08b5e38.svg" width="220" />
 
-INTJ-A | Born in 2002
+My blog: [dodolalorc.cn](https://dodolalorc.cn/)
 
-My blog: [dodolalorc.cn](https://dodolalorc.cn/) | [dodolalorc.github.io](https://dodolalorc.github.io/).
+Feel free to reach out via [email](mailto:dodolalorc@gmail.com).
 
-Feel free to reach out via email [flora's email](mailto:dodolalorc@gmail.com) or leave a comment on my website — [click here](https://dodolalorc.github.io/).
+- Building and exploring AI-native workflows and tools.
+- Working with TypeScript, Rust, and Python.
+- Writing, learning, and contributing to open source.
+- Interested in AI, developer experience, and human-centered products.
 
 [![wakatime](https://wakatime.com/badge/user/9472cdb1-67de-4364-97df-8c579596a053.svg)](https://wakatime.com/@9472cdb1-67de-4364-97df-8c579596a053)
 
+| My GitHub Stats 📈 | My Github Profile Trophy & Skills |
+|-----|-----|
+|<p align="center"><img width="350" align="center" src="https://github-readme-stats-two-sand-73.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=tokyonight&show_owner=true?include_all_commits=true&include_orgs=true" /><img width="350" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dodolalorc&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" /></p>| <div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="800" src="https://trophy.benkou.dev/?username=dodolalorc&column=5&theme=tokyonight&no-frame=true"/></a></div>[![My Skills](https://skillicons.dev/icons?i=ts,vue,cpp,rust,py,tauri,github,nuxtjs,obsidian)](https://skillicons.dev) |
 
-### My GitHub Stats 📈
+<!-- ### My GitHub Stats 📈
 
 <div align="center">
-  <img height="120" align="center" src="https://github-readme-stats-two-sand-73.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=tokyonight&show_owner=true?include_all_commits=true&include_orgs=true" />
-  <img height="120" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dodolalorc&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" />
+  <img height="150" align="center" src="https://github-readme-stats-two-sand-73.vercel.app/api?username=dodolalorc&count_private=true&show_icons=true&theme=tokyonight&show_owner=true?include_all_commits=true&include_orgs=true" />
+  <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dodolalorc&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" />
 </div>
 
 ### My Github Profile Trophy 🏆
@@ -28,4 +45,4 @@ Feel free to reach out via email [flora's email](mailto:dodolalorc@gmail.com) or
 
 ### My Skill Icons 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=ts,vue,cpp,rust,py,tauri,github,nuxtjs,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,vue,cpp,rust,py,tauri,github,nuxtjs,obsidian)](https://skillicons.dev) -->
