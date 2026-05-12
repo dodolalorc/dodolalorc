@@ -1,4 +1,4 @@
-<div align="center"></div>
+<div align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=18&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+dodola.+An+AI+Native+Developer" alt="Hi, I'm dodola. An AI Native Developer" />
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=18&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=700&lines=A+curious+coder%2C+always+learning" alt="A curious coder, always learning" />
 </div>
