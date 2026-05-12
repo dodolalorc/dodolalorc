@@ -17,7 +17,7 @@
 </div>
 
 <!-- 右侧的图片喵 -->
-<img align="right" src="./4f766531725c8d207b19e353f08b5e38.svg" width="220" />
+<img align="right" src="./mikucat.svg" width="220" />
 
 ```bash
 $ whoami
