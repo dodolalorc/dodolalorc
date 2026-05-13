@@ -20,14 +20,13 @@
 <img align="right" src="./mikucat.svg" width="220" />
 
 ```bash
-$ whoami
-dodola
+$ lately
+CS undergraduate, graduating and joining ByteDance soon.
 
 $ current_focus
-- 🛠 Building AI-native tools and workflows.
-- ⚡ Exploring TypeScript, Rust, and Python.
-- 📚 Writing notes, blogs, and open-source projects.
-- 🤖 Interested in AI products and developer experience.
+- Frontend engineering and AI products.
+- Building practical AI-native workflows.
+- Writing, learning, and preparing for work.
 
 $ stack
 TypeScript / Vue / Rust / Python / Tauri / Obsidian
