@@ -17,7 +17,7 @@
 </div>
 
 <!-- 右侧的图片喵 -->
-<img align="right" src="./mikucat.svg" width="220" />
+<img align="right" src="./assets/mikucat.svg" width="220" />
 
 ```bash
 $ lately
