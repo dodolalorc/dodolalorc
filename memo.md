@@ -12,4 +12,6 @@
 
 ### 微信读书
 
+weread skill：https://weread.qq.com/r/weread-skills
+
 ### kindle
