@@ -21,7 +21,7 @@
 
 ```bash
 $ lately
-CS undergraduate, graduating and joining ByteDance soon.
+CS undergraduate, graduating and work in ByteDance now.
 
 $ current_focus
 - Frontend engineering and AI products.
