@@ -3,13 +3,15 @@
     "name": "dodola",
     "url": "https://dodolalorc.cn/",
     "avatar": "https://avatars.githubusercontent.com/u/114007020?v=4",
-    "bio": "要是人生能像星露谷就好了。✨"
+    "bio": "要是人生能像星露谷就好了。✨",
+    "sticky": true
   },
   {
     "name": "思想犯",
     "url": "https://virgiling.github.io/",
     "avatar": "https://avatars.githubusercontent.com/u/71817082?v=4",
-    "bio": "一个活的相对失败的 CSer 😢"
+    "bio": "一个活的相对失败的 CSer 😢",
+    "sticky": true
   },
   {
     "name": "Windlinxy",
