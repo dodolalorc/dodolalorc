@@ -104,5 +104,13 @@
     "bio": "圆环之外，仍有未尽之愿。",
     "backgroundImage": "https://img.nep.me/blog/homulilly-home.webp",
     "rss": "https://homulilly.com/atom.xml"
+  },
+  {
+    "name": "cos",
+    "url": "https://blog.cosine.ren/",
+    "avatar": "https://blog.cosine.ren/img/avatar.webp",
+    "bio": "圆环之外，仍有未尽之愿。",
+    "backgroundImage": "https://blog.cosine.ren/rss.xml",
+    "rss": "https://homulilly.com/atom.xml"
   }
 ]
