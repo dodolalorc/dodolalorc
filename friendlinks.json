@@ -113,5 +113,14 @@
     "bio": "FE / ACG / 手工 / 深色模式强迫症 / INFP / 兴趣广泛养两只猫的老宅女 / remote",
     "backgroundImage": "",
     "rss": "https://homulilly.com/atom.xml"
+  },
+  {
+    "name": "魈枫Hub",
+    "url": "https://xfhub.com/",
+    "bio": "不筑悬崖之台，只凿深谷之基🐔",
+    "avatar": "https://xfhub.com/avatar.png",
+    "backgroundImage": "",
+    "rss": "",
+    "sticky": false
   }
 ]
