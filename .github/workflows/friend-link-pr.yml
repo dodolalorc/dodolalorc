@@ -2,7 +2,7 @@ name: Create Friend Link PR
 
 on:
   issues:
-    types: [opened, labeled]
+    types: [labeled]
 
 concurrency:
   group: friend-link-${{ github.event.issue.number }}
@@ -10,9 +10,7 @@ concurrency:
 
 jobs:
   create-pr:
-    if: >-
-      contains(github.event.issue.labels.*.name, 'friend-link') ||
-      startsWith(github.event.issue.title, '[友链申请]')
+    if: github.event.label.name == 'friend-link'
     runs-on: ubuntu-latest
     timeout-minutes: 5
     permissions:

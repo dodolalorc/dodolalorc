@@ -112,11 +112,10 @@ function validateFields(fields) {
 
   for (const fieldName of OPTIONAL_FIELDS) {
     const value = String(fields[fieldName] || '').trim();
-
-    if (value) {
-      entry[fieldName] = value;
-    }
+    entry[fieldName] = value;
   }
+
+  entry.sticky = false;
 
   return entry;
 }
@@ -132,16 +131,20 @@ function comparableUrl(value) {
   return parsed.toString().replace(/\/$/, '');
 }
 
-function containsUrl(friendLinks, url) {
+function findUrlIndex(friendLinks, url) {
   const expected = comparableUrl(url);
 
-  return friendLinks.some((friendLink) => {
+  return friendLinks.findIndex((friendLink) => {
     try {
       return comparableUrl(friendLink.url) === expected;
     } catch {
       return false;
     }
   });
+}
+
+function containsUrl(friendLinks, url) {
+  return findUrlIndex(friendLinks, url) !== -1;
 }
 
 async function readFriendLinks(github, repo, ref) {
@@ -299,10 +302,21 @@ async function createFriendLinkPullRequest({ github, context, core }) {
   await ensureBranch(github, repo, branch, baseRef.data.object.sha);
 
   const branchFile = await readFriendLinks(github, repo, branch);
+  const branchEntryIndex = findUrlIndex(branchFile.friendLinks, entry.url);
+  let shouldUpdateFile = false;
 
-  if (!containsUrl(branchFile.friendLinks, entry.url)) {
+  if (branchEntryIndex === -1) {
     branchFile.friendLinks.push(entry);
+    shouldUpdateFile = true;
+  } else if (
+    JSON.stringify(branchFile.friendLinks[branchEntryIndex]) !==
+    JSON.stringify(entry)
+  ) {
+    branchFile.friendLinks[branchEntryIndex] = entry;
+    shouldUpdateFile = true;
+  }
 
+  if (shouldUpdateFile) {
     await github.rest.repos.createOrUpdateFileContents({
       ...repo,
       path: FRIEND_LINKS_PATH,
@@ -340,4 +354,3 @@ async function createFriendLinkPullRequest({ github, context, core }) {
 module.exports = createFriendLinkPullRequest;
 module.exports.parseIssueBody = parseIssueBody;
 module.exports.validateFields = validateFields;
-
