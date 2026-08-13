@@ -266,23 +266,6 @@ async function createFriendLinkPullRequest({ github, context, core }) {
     return;
   }
 
-  const existingPullRequest = await findOpenPullRequest(
-    github,
-    repo,
-    branch,
-    defaultBranch,
-  );
-
-  if (existingPullRequest) {
-    await upsertIssueComment(
-      github,
-      repo,
-      issueNumber,
-      `友链 PR 已存在：#${existingPullRequest.number}`,
-    );
-    return;
-  }
-
   const baseRef = await github.rest.git.getRef({
     ...repo,
     ref: `heads/${defaultBranch}`,
@@ -328,6 +311,23 @@ async function createFriendLinkPullRequest({ github, context, core }) {
         'utf8',
       ).toString('base64'),
     });
+  }
+
+  const existingPullRequest = await findOpenPullRequest(
+    github,
+    repo,
+    branch,
+    defaultBranch,
+  );
+
+  if (existingPullRequest) {
+    await upsertIssueComment(
+      github,
+      repo,
+      issueNumber,
+      `已更新友链 PR：#${existingPullRequest.number}`,
+    );
+    return;
   }
 
   const pullRequest = await github.rest.pulls.create({
