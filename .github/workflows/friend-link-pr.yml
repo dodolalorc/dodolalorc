@@ -1,0 +1,37 @@
+name: Create Friend Link PR
+
+on:
+  issues:
+    types: [opened, labeled]
+
+concurrency:
+  group: friend-link-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  create-pr:
+    if: >-
+      contains(github.event.issue.labels.*.name, 'friend-link') ||
+      startsWith(github.event.issue.title, '[友链申请]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
+
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      - name: Append friend link and create pull request
+        uses: actions/github-script@v9
+        with:
+          script: |
+            const createFriendLinkPullRequest = require(
+              './.github/scripts/create-friend-link-pr.cjs'
+            );
+
+            await createFriendLinkPullRequest({ github, context, core });

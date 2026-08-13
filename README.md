@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Blog-dodolalorc.cn-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" /> <img src="https://img.shields.io/badge/Email-dodolalorc%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Blog-dodolalorc.cn-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white?link=https://dodolalorc.cn/" alt="Blog" /> <img src="https://img.shields.io/badge/Email-dodolalorc%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white?link=mailto:dodolalorc@gmail.com" alt="Email" />
 </div>
 
 <!-- 右侧的图片喵 -->
