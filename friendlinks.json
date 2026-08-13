@@ -122,5 +122,10 @@
     "backgroundImage": "",
     "rss": "",
     "sticky": false
+  },
+  {
+    "name": "dodola-test",
+    "url": "https://astro.navfolio.site/",
+    "avatar": "https://avatars.githubusercontent.com/u/114007020?v=4"
   }
 ]
