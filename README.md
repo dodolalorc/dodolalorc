@@ -13,7 +13,9 @@
 </p>
 
 <div align="center">
-<a herf="link=https://dodolalorc.cn/"> <img src="https://img.shields.io/badge/Blog-dodolalorc.cn-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" /> </a> <a herf="mailto:dodolalorc@gmail.com"> <img src="https://img.shields.io/badge/Email-dodolalorc%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
+
+<a href="https://dodolalorc.cn/" target="_blank"> <img src="https://img.shields.io/badge/Blog-dodolalorc.cn-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" /> </a>
+<a href="mailto:dodolalorc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-dodolalorc%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
 </div>
 
 <!-- 右侧的图片喵 -->
