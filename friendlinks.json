@@ -124,12 +124,12 @@
     "sticky": false
   },
   {
-    "name": "yanbo的博客",
+    "name": "烟波 Yanbo",
     "url": "https://yanbowa.ng/",
-    "bio": "",
-    "avatar": "",
+    "bio": "数字游民 / 独立开发者 / 不太专业的旅行摄影师 / work-work.org",
+    "avatar": "https://yanbowa.ng/logo.png",
     "backgroundImage": "",
-    "rss": "",
+    "rss": "https://yanbowa.ng/rss.xml",
     "sticky": false
   }
 ]
