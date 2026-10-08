@@ -36,7 +36,7 @@ TypeScript / Vue / Rust / Python / Tauri / Obsidian
 ```
 <p align="center">
   <img src="https://wakatime.com/badge/user/9472cdb1-67de-4364-97df-8c579596a053.svg" alt="wakatime" />
-  <img src="https://githubroast.dev/api/badge/dodolalorc" alt="GitHub Roast 评分徽章" />
+  <a href="https://ghfind.com/u/dodolalorc?ref=badge"><img src="https://ghfind.com/api/badge/dodolalorc?lang=zh" alt="GitHub Roast 评分徽章" /></a>
 </p>
 
 | My GitHub Stats 📈                                                                                                                                                                                                                                                                                                                                                                                                                       | My Github Profile Trophy & Skills                                                                                                                                                                                                                                                                                                                                                            |
